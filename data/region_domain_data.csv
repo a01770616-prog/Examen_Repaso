@@ -1,0 +1,131 @@
+Row,Group,Column,Value,Segment
+Updated,WAR,GIT,1,Domain
+Not Updated,WAR,GIT,0,Domain
+Green,Overall Project Health,GIT,0,Domain
+Yellow,Overall Project Health,GIT,1,Domain
+Red,Overall Project Health,GIT,0,Domain
+No Status,Overall Project Health,GIT,0,Domain
+Green + Yellow,Overall Project Health,GIT,1,Domain
+Red + No Status,Overall Project Health,GIT,0,Domain
+Updated,Gate Review,GIT,0,Domain
+Not Updated,Gate Review,GIT,0,Domain
+Updated,WAR,APPL,82,Domain
+Not Updated,WAR,APPL,12,Domain
+Green,Overall Project Health,APPL,81,Domain
+Yellow,Overall Project Health,APPL,11,Domain
+Red,Overall Project Health,APPL,0,Domain
+No Status,Overall Project Health,APPL,2,Domain
+Green + Yellow,Overall Project Health,APPL,92,Domain
+Red + No Status,Overall Project Health,APPL,2,Domain
+Updated,Gate Review,APPL,21,Domain
+Not Updated,Gate Review,APPL,4,Domain
+Updated,WAR,JIT/TCO,60,Domain
+Not Updated,WAR,JIT/TCO,1,Domain
+Green,Overall Project Health,JIT/TCO,45,Domain
+Yellow,Overall Project Health,JIT/TCO,16,Domain
+Red,Overall Project Health,JIT/TCO,0,Domain
+No Status,Overall Project Health,JIT/TCO,0,Domain
+Green + Yellow,Overall Project Health,JIT/TCO,61,Domain
+Red + No Status,Overall Project Health,JIT/TCO,0,Domain
+Updated,Gate Review,JIT/TCO,36,Domain
+Not Updated,Gate Review,JIT/TCO,1,Domain
+Updated,WAR,EIT,9,Domain
+Not Updated,WAR,EIT,1,Domain
+Green,Overall Project Health,EIT,8,Domain
+Yellow,Overall Project Health,EIT,2,Domain
+Red,Overall Project Health,EIT,0,Domain
+No Status,Overall Project Health,EIT,0,Domain
+Green + Yellow,Overall Project Health,EIT,10,Domain
+Red + No Status,Overall Project Health,EIT,0,Domain
+Updated,Gate Review,EIT,5,Domain
+Not Updated,Gate Review,EIT,0,Domain
+Updated,WAR,ITOP,18,Domain
+Not Updated,WAR,ITOP,0,Domain
+Green,Overall Project Health,ITOP,15,Domain
+Yellow,Overall Project Health,ITOP,3,Domain
+Red,Overall Project Health,ITOP,0,Domain
+No Status,Overall Project Health,ITOP,0,Domain
+Green + Yellow,Overall Project Health,ITOP,18,Domain
+Red + No Status,Overall Project Health,ITOP,0,Domain
+Updated,Gate Review,ITOP,11,Domain
+Not Updated,Gate Review,ITOP,0,Domain
+Updated,WAR,SSS,0,Domain
+Not Updated,WAR,SSS,0,Domain
+Green,Overall Project Health,SSS,0,Domain
+Yellow,Overall Project Health,SSS,0,Domain
+Red,Overall Project Health,SSS,0,Domain
+No Status,Overall Project Health,SSS,0,Domain
+Green + Yellow,Overall Project Health,SSS,0,Domain
+Red + No Status,Overall Project Health,SSS,0,Domain
+Updated,Gate Review,SSS,0,Domain
+Not Updated,Gate Review,SSS,0,Domain
+Updated,WAR,LOD2,0,Domain
+Not Updated,WAR,LOD2,0,Domain
+Green,Overall Project Health,LOD2,0,Domain
+Yellow,Overall Project Health,LOD2,0,Domain
+Red,Overall Project Health,LOD2,0,Domain
+No Status,Overall Project Health,LOD2,0,Domain
+Green + Yellow,Overall Project Health,LOD2,0,Domain
+Red + No Status,Overall Project Health,LOD2,0,Domain
+Updated,Gate Review,LOD2,0,Domain
+Not Updated,Gate Review,LOD2,0,Domain
+Updated,WAR,SECU,0,Domain
+Not Updated,WAR,SECU,0,Domain
+Green,Overall Project Health,SECU,0,Domain
+Yellow,Overall Project Health,SECU,0,Domain
+Red,Overall Project Health,SECU,0,Domain
+No Status,Overall Project Health,SECU,0,Domain
+Green + Yellow,Overall Project Health,SECU,0,Domain
+Red + No Status,Overall Project Health,SECU,0,Domain
+Updated,Gate Review,SECU,0,Domain
+Not Updated,Gate Review,SECU,0,Domain
+Updated,WAR,WW,14,Region
+Not Updated,WAR,WW,5,Region
+Green,Overall Project Health,WW,16,Region
+Yellow,Overall Project Health,WW,3,Region
+Red,Overall Project Health,WW,0,Region
+No Status,Overall Project Health,WW,0,Region
+Green + Yellow,Overall Project Health,WW,19,Region
+Red + No Status,Overall Project Health,WW,0,Region
+Updated,Gate Review,WW,6,Region
+Not Updated,Gate Review,WW,3,Region
+Updated,WAR,ASIA,23,Region
+Not Updated,WAR,ASIA,0,Region
+Green,Overall Project Health,ASIA,23,Region
+Yellow,Overall Project Health,ASIA,0,Region
+Red,Overall Project Health,ASIA,0,Region
+No Status,Overall Project Health,ASIA,0,Region
+Green + Yellow,Overall Project Health,ASIA,23,Region
+Red + No Status,Overall Project Health,ASIA,0,Region
+Updated,Gate Review,ASIA,16,Region
+Not Updated,Gate Review,ASIA,0,Region
+Updated,WAR,EMEA,87,Region
+Not Updated,WAR,EMEA,8,Region
+Green,Overall Project Health,EMEA,74,Region
+Yellow,Overall Project Health,EMEA,19,Region
+Red,Overall Project Health,EMEA,0,Region
+No Status,Overall Project Health,EMEA,2,Region
+Green + Yellow,Overall Project Health,EMEA,93,Region
+Red + No Status,Overall Project Health,EMEA,2,Region
+Updated,Gate Review,EMEA,36,Region
+Not Updated,Gate Review,EMEA,0,Region
+Updated,WAR,NAO,35,Region
+Not Updated,WAR,NAO,1,Region
+Green,Overall Project Health,NAO,28,Region
+Yellow,Overall Project Health,NAO,8,Region
+Red,Overall Project Health,NAO,0,Region
+No Status,Overall Project Health,NAO,0,Region
+Green + Yellow,Overall Project Health,NAO,36,Region
+Red + No Status,Overall Project Health,NAO,0,Region
+Updated,Gate Review,NAO,12,Region
+Not Updated,Gate Review,NAO,1,Region
+Updated,WAR,SAO,11,Region
+Not Updated,WAR,SAO,0,Region
+Green,Overall Project Health,SAO,8,Region
+Yellow,Overall Project Health,SAO,3,Region
+Red,Overall Project Health,SAO,0,Region
+No Status,Overall Project Health,SAO,0,Region
+Green + Yellow,Overall Project Health,SAO,11,Region
+Red + No Status,Overall Project Health,SAO,0,Region
+Updated,Gate Review,SAO,3,Region
+Not Updated,Gate Review,SAO,1,Region
